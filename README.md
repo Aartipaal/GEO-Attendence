@@ -1,4 +1,4 @@
- # 🧾 Udhaar Management System
+  # 🧾 Udhaar Management System
 
 A web-based platform to **digitally manage udhaar (credit) transactions** between sellers and buyers.  
 It simplifies tracking of outstanding balances, pending claims, and payments — replacing manual ledgers with a secure, real-time digital system.
